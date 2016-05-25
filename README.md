@@ -4,9 +4,9 @@
 
 Download zip and unpack files.
 
-## got to folder in terminal
+## Got to folder in terminal
 
-`$ cd /your-directory`
+`$ cd /your-directory/OS-X-fresh-install`
 
 ## Installing needed apps
 
