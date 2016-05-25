@@ -84,6 +84,7 @@ brew install \
   fortune \
   gettext glib glibmm gsasl \
   highlight \
+  jq \
   libffi libsigc++ libxml++ libxml++3 libxml2 libxslt lua \
   mysql \
   openssl \

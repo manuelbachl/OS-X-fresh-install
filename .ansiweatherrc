@@ -1,0 +1,34 @@
+api_key:85a4e3c55b73909f42c6a23ec35b7147
+fetch_cmd:curl -sf
+location:Gütersloh,DE
+units:metric
+forecast:0
+daylight:true
+ansi:true
+symbols:true
+dateformat:%a %b %d
+timeformat:%b %d %r
+
+# Text and Colors
+background:\033[47m
+text:\033[30;1m
+data:\033[30;1m
+delimiter:\033[35m=>
+dashes:\033[34m-
+greeting_text:Current weather in
+wind_text:Wind
+humidity_text:Humidity
+pressure_text:Pressure
+sunrise_text:Sunrise
+sunset_text:Sunset
+
+# Icons
+sun:\033[30;1m\xe2\x98\x80
+moon:\033[30m\xe2\x98\xbd
+clouds:\033[30;1m\xe2\x98\x81
+rain:\033[30;1m\xe2\x98\x94
+fog:\033[30;1m\xe2\x96\x92
+mist:\033[30m\xe2\x96\x91
+haze:\033[30m\xe2\x96\x91
+snow:\033[30;1m\xe2\x9d\x84
+thunderstorm:\033[30;1m\xe2\x9a\xa1
