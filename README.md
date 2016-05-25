@@ -14,6 +14,6 @@ Download zip and unpack files.
 
 ## Copy config files
 
-move all stuff inside the `Config files` folder to `~`
+move all stuff inside the `ConfigFiles` folder to `~`
 
-`$ mv ConfigFiles/* ~/`
+`$ cp -a ConfigFiles/. ~/`
