@@ -146,3 +146,18 @@ echo
 echo "You may want to add the following settings to your .bashrc:"
 echo_warn '  export HOMEBREW_CASK_OPTS="--appdir=/Applications"'
 echo
+echo
+echo_warn "Please remember installing those apps manually:"
+echo "Adobe Creative Cloud Apps"
+echo "Feedly"
+echo "MAMP Pro"
+echo "Quiver"
+echo "App for Whatsapp"
+echo "CopyClip 2"
+echo "Freechat for Facebook Messenger"
+echo "Powermapper"
+echo
+echo
+echo_warn "Don't forget installing needed Plugins inside apps"
+echo "Firefox: Colorzilla, Disconnect, Firebug, HTTPS-Everywhere, MeasureIt, Screengrab, Self-Destructing Cookies, Undo Closed Tabs Button, Wappalyzer, Webdeveloper"
+echo "Thunderbird: Lightning"
