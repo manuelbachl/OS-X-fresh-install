@@ -86,14 +86,14 @@ function regularmode {
     fi
 
     # Update oh-my-zsh plugins
-    #if [ $SHELL == "/bin/zsh" ]
-    #then
-    #   read -p "Update oh-my-zsh plugins? <y/n> " prompt
-    #   if [[ $prompt == "y" || $prompt == "Y" || $prompt == "yes" || $prompt == "Yes" ]]
-    #       then
-    #           runUpdates zshpugins
-    #   fi
-    #fi
+    if [ $SHELL == "/bin/zsh" ]
+    then
+       read -p "Update oh-my-zsh plugins? <y/n> " prompt
+       if [[ $prompt == "y" || $prompt == "Y" || $prompt == "yes" || $prompt == "Yes" ]]
+           then
+               runUpdates zshplugins
+       fi
+    fi
 }
 
 if [ $# -eq 0 ]
