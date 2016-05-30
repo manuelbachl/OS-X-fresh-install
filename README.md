@@ -1,19 +1,3 @@
 # OS X fresh install
 
-## Download zip
-
-Download zip and unpack files.
-
-## Got to folder in terminal
-
-`$ cd /your-directory/OS-X-fresh-install`
-
-## Installing needed apps
-
-`$ bash InstallScripts/fresh_install.mbachl.sh`
-
-## Copy config files
-
-move all stuff inside the `ConfigFiles` folder to `~`
-
-`$ cp -a ConfigFiles/. ~/`
+## need to put contents here - WIP
